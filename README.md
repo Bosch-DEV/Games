@@ -73,12 +73,9 @@ The Crosshair Overlay allows users to draw various shapes on the screen using th
 - fill only allows true or false values
 
 These parameters allow users to customize the position, size, color, thickness, and rotation of the shapes drawn on the screen using the Crosshair Overlay.
-<<<<<<< HEAD
 
 ## Guess the Number
 A simple number guessing game
 
 ## Leapster
 A jump and run game
-=======
->>>>>>> 37ca84f672efb9427efdbe8748f04f93caf5e215
