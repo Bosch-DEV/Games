@@ -1,4 +1,8 @@
 # Game Overview
+### CC
+**All Default Images or Images in games are Under a fair use policy, and Created by the Developers themselves**
+**For any DMCA or CC Requests, Create an issue on this repository**
+
 ## Crosshair Overlay
 This Crosshair Overlay is a simple tool that allows the display and creation of crosshairs on a monitor. It supports the use of custom ".sty" files, enabling users to customize the appearance of the crosshairs. The syntax for using the Crosshair Overlays ".sty" files is as follows:
 
